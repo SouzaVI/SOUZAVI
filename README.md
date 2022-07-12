@@ -2,9 +2,11 @@
 
 Sou **Igor Viana Souza**, residente de Jataí/GO.
 
-Meus entretenimento diários é **TENTAR PROGRAMAR** para resolver problemas diários em meu serviço e praticar arte marciais 🥊 🥋.
-
 Sou formado em Engenharia florestal pela Universidade Federal do Tocantins (2018) e Mestre em Ciências florestais e Ambientais (2021)
+
+Meus entretenimentos diários é **TENTAR PROGRAMAR** para resolver problemas diários em meu serviço e praticar arte marciais 🥊 🥋.
+
+Gosto de desafios que desenvolvam novas habilidades
 
 
   ##
