@@ -1,12 +1,11 @@
-### Hi there 👋
+# bem-vindo  👋
 
-My name is Igor Viana Souza, I'am a forestrey engineer and master in forestry and environmental sciences.
-Programming student to systems developer
+Sou **Igor Viana Souza**, residente de Jataí/GO.
 
-Here are some ideas to get you started:
+Meus entretenimento diários é **TENTAR PROGRAMAR** para resolver problemas diários em meu serviço e praticar arte marciais 🥊 🥋.
 
-- 🔭 I am currently working as a geoprocessing and remote sensing analyst ...
-- 🌱 I'm currently learning about web development ...
+Sou formado em Engenharia florestal pela Universidade Federal do Tocantins (2018) e Mestre em Ciências florestais e Ambientais (2021)
+
 
   ##
   
