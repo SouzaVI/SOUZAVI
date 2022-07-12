@@ -13,8 +13,9 @@ Gosto de desafios que desenvolvam novas habilidades
   
 <div align="center">
   <a href="https://github.com/SOUZAVI">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SOUZAVI&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SOUZAVI&layout=compact&langs_count=7&theme=monokai "/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=SOUZAVI&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SOUZAVI"/>
+  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SOUZAVI&theme=vue"/>
 </div>
     <div style="display: inline_block"><br>
   <img align="center" alt="Igor-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg">
@@ -24,6 +25,8 @@ Gosto de desafios que desenvolvam novas habilidades
   <img align="center" alt="Igor-Pycharm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg">
   <img align="center" alt="Igor-Visual" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
   <img align="center" alt="Igor-Jupy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
+  <img align="center" alt="Igor-SPSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spss/spss-original.svg">
+  <img align="center" alt="Igor-qgis" height="40" width="100" src="https://img.shields.io/badge/qgis-3.24_Tisler-93b023?&style=for-the-badge&logo=qgis&logoColor=white">
  <div> 
    
    ##
