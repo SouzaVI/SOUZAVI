@@ -1,12 +1,10 @@
 # bem-vindo  👋
 
-Sou **Igor Viana Souza**, residente de Jataí/GO.
+Olá, meu nome é Igor Viana Souza e sou residente de Jataí, Goiás. Sou um engenheiro florestal formado pela Universidade Federal do Tocantins em 2018, possuo mestrado em Ciências Florestais e Ambientais e atualmente bacharelando em Engenharia de Software
 
-Sou formado em Engenharia florestal pela Universidade Federal do Tocantins (2018) e Mestre em Ciências florestais e Ambientais (2021)
+Meus hobbies incluem programação, que utilizo para resolver problemas diários em meu trabalho, e artes marciais. Sou movido por desafios que me permitem desenvolver novas habilidades e aprender continuamente.
 
-Meus entretenimentos diários é **TENTAR PROGRAMAR** para resolver problemas diários em meu serviço e praticar arte marciais 🥊 🥋.
-
-Gosto de desafios que desenvolvam novas habilidades
+Agradeço pela oportunidade de me apresentar e espero poder colaborar de alguma forma. Caso precise de ajuda em alguma área, sinta-se à vontade para entrar em contato comigo.
 
 
   ##
