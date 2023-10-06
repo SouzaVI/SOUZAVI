@@ -7,11 +7,17 @@ Meus interesses e habilidades abrangem diversas áreas, e estou sempre em busca 
 Minhas competências incluem:
 
 •Desenvolvimento de sistemas de informação geográfica personalizados para necessidades específicas do projeto.
+
 •Acompanhamento das tendências em tecnologia SIG e busca por novas soluções tecnológicas para melhorar a eficiência dos processos.
+
 •Realização de análises espaciais.
+
 •Interpretação de imagens de satélite para extrair informações sobre a superfície terrestre.
+
 •Realização de análises multitemporais para identificar mudanças na superfície terrestre ao longo do tempo.
+
 •Escrita de código para implementar funcionalidades em soluções e otimização de processos, utilizando linguagens de programação e bibliotecas.
+
 Algumas das linguagens e ferramentas com as quais estou familiarizado incluem Java, Python, SQL, QGIS, ArcGIS e a linguagem de programação R.
 
 Agradeço pela oportunidade de me apresentar e espero poder colaborar de alguma forma. Se precisar de ajuda em alguma área, sinta-se à vontade para entrar em contato comigo. Estou sempre pronto para enfrentar desafios e contribuir para projetos que exijam conhecimento em geoprocessamento, programação e ciências florestais.
