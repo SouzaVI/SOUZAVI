@@ -40,8 +40,3 @@ Olá a todos! 👋 Meu nome é Igor Viana Souza, um engenheiro florestal apaixon
     <a href="mailto:igor.souzavigor@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
    </div>
 
-<div align="center"> 
-  
-   ![Snake animation](https://github.com/SOUZAVI/SOUZAVI/blob/output/github-contribution-grid-snake.svg)
-
-</div>
