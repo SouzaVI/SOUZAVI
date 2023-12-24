@@ -11,7 +11,6 @@ Olá a todos! 👋 Meu nome é Igor Viana Souza, um engenheiro florestal apaixon
 
 - **Geoprocessamento Personalizado:** Desenvolvo sistemas de informação geográfica adaptados às necessidades específicas de cada projeto.
 - **Acompanhamento Tecnológico:** Atento às tendências em tecnologia SIG para otimizar processos.
-- **Análises Espaciais e de Mudanças Temporais:** Utilizo meu conhecimento para interpretar imagens de satélite e identificar mudanças na superfície terrestre ao longo do tempo.
 - **Programação Eficiente:** Escrevo código para implementar funcionalidades e otimizar processos, utilizando JavaScript, Python, SQL, R, QGIS e ArcGIS.
 
   ##
