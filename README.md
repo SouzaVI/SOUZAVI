@@ -1,8 +1,3 @@
-Certamente, Igor! Vamos aprimorar os tópicos para tornar sua apresentação ainda mais impactante:
-
----
-
-### Apresentação:
 
 Olá a todos! 👋 Meu nome é Igor Viana Souza, um engenheiro florestal apaixonado por resolver desafios por meio da programação. Resido em Jataí, Goiás, e trago uma formação diversificada para contribuir em projetos inovadores.
 
@@ -10,7 +5,7 @@ Olá a todos! 👋 Meu nome é Igor Viana Souza, um engenheiro florestal apaixon
 
 - **Engenheiro Florestal:** Graduado pela Universidade Federal do Tocantins em 2018.
 - **Mestrado em Ciências Florestais e Ambientais:** Aprofundei meus conhecimentos nesta área.
-- **Engenharia de Software:** Atualmente me aprimorando nessa disciplina, buscando integrar tecnologia à minha bagagem florestal.
+- **Desenvolvimento de Sistemas:** Atualmente me aprimorando nessa disciplina, buscando integrar tecnologia à minha bagagem.
 
 ### Habilidades e Interesses:
 
@@ -18,21 +13,6 @@ Olá a todos! 👋 Meu nome é Igor Viana Souza, um engenheiro florestal apaixon
 - **Acompanhamento Tecnológico:** Atento às tendências em tecnologia SIG para otimizar processos.
 - **Análises Espaciais e de Mudanças Temporais:** Utilizo meu conhecimento para interpretar imagens de satélite e identificar mudanças na superfície terrestre ao longo do tempo.
 - **Programação Eficiente:** Escrevo código para implementar funcionalidades e otimizar processos, utilizando Java, Python, SQL, R, QGIS e ArcGIS.
-
-### Paixões Além da Profissão:
-
-- **Artes Marciais:** Dedicação às artes marciais, buscando equilíbrio físico e mental.
-
-### Colaboração:
-
-Agradeço pela oportunidade de apresentar meu "readme". Estou ansioso para enfrentar novos desafios e contribuir para projetos que demandem conhecimento em geoprocessamento, programação e ciências florestais.
-
-Se precisar de assistência em qualquer área, não hesite em entrar em contato. Estou pronto para colaborar e aprender continuamente!
-
----
-
-Espero que estas melhorias destaquem ainda mais suas habilidades e experiências. Caso tenha mais alguma sugestão, estou à disposição!
-
 
   ##
   
